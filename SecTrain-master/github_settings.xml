@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="n0w009g" />
+    <option name="HOST" value="https://gecgithub01.walmart.com" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
