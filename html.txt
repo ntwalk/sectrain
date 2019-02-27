@@ -1,3 +1,4 @@
+![](https://i.imgur.com/diihENq.gif?noredir)
 # Security Ramp Up
 Curated list of content to learn and practice some of the skills and knowledge required for Information Security.
 
