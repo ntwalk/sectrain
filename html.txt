@@ -1,4 +1,5 @@
 ![](https://i.imgur.com/diihENq.gif?noredir)
+
 # Security Ramp Up
 Curated list of content to learn and practice some of the skills and knowledge required for Information Security.
 
@@ -42,6 +43,7 @@ Better to say it there than to have it come out in a technical interview.
 
 ## InfoSec News, Blogs, etc
 - [Krebs on Security](https://krebsonsecurity.com/)
+- [Internet Storm Center Diary](http://isc.sans.edu/diary.html#__utma=216335632.1546811132.1523890682.1523890682.1523890682.1&__utmb=216335632.4.9.1523890695938&__utmc=216335632&__utmx=-&__utmz=216335632.1523890682.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=181085796&__utma=216335632.1546811132.1523890682.1523890682.1523890682.1&__utmb=216335632.5.9.1523890778706&__utmc=216335632&__utmx=-&__utmz=216335632.1523890682.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=181003748)
 - [Dark Reading](https://www.darkreading.com/)
 - [NetSec Subreddit](https://www.reddit.com/r/netsec/)
 - [Pwned Subreddit](https://www.reddit.com/r/pwned/)
